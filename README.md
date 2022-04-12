@@ -1,1 +1,4 @@
-Linux-record
+
+# 常用
+## 網路設定
+### nmcli
