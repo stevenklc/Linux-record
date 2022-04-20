@@ -1,5 +1,5 @@
 
-# Newwork
+# Network
 ---
 ## nmcli
 
